@@ -1,0 +1,58 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  source1.cpp
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(178,126): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(178,126): warning C4244:         with
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(178,126): warning C4244:         [
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(178,126): warning C4244:             T=unsigned int
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(178,126): warning C4244:         ]
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(178,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(178,50): warning C4244:         with
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(178,50): warning C4244:         [
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(178,50): warning C4244:             T=unsigned int
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(178,50): warning C4244:         ]
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(232,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(233,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(234,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(235,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(236,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(237,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(242,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(242,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(320,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(321,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(370,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(370,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(389,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(391,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(392,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(392,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(503,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(503,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(507,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(507,31): warning C4244:         with
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(507,31): warning C4244:         [
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(507,31): warning C4244:             T=float
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(507,31): warning C4244:         ]
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(507,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(507,27): warning C4244:         with
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(507,27): warning C4244:         [
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(507,27): warning C4244:             T=float
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(507,27): warning C4244:         ]
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(509,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(527,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(628,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(661,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(661,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(674,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(674,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(753,15): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(753,15): warning C4244:         with
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(753,15): warning C4244:         [
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(753,15): warning C4244:             T=float
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(753,15): warning C4244:         ]
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(755,12): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(755,12): warning C4244:         with
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(755,12): warning C4244:         [
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(755,12): warning C4244:             T=float
+C:\Users\GREEN-M\Desktop\project sp game\SFML Template\ConsoleApplication1\source1.cpp(755,12): warning C4244:         ]
+  ConsoleApplication1.vcxproj -> C:\Users\GREEN-M\Desktop\project sp game\SFML Template\x64\Debug\SFML Template.exe
