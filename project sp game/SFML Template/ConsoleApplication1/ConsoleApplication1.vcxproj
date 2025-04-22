@@ -134,11 +134,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FileName.cpp" />
+    <ClCompile Include="Game.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="monster.cpp" />
     <ClCompile Include="source1.cpp" />
+    <ClCompile Include="source2.cpp" />
     <ClCompile Include="windowresized.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="FileName.h" />
+    <ClInclude Include="Game.h" />
     <ClInclude Include="newheader.h" />
   </ItemGroup>
   <ItemGroup>
@@ -147,7 +153,9 @@
     <Image Include="..\assests\main menu\button2.png" />
     <Image Include="..\assests\main menu\cloud1.png" />
     <Image Include="..\assests\main menu\cloud2.png" />
+    <Image Include="..\assests\main menu\cursor.png" />
     <Image Include="..\assests\main menu\exit notification.png" />
+    <Image Include="..\assests\main menu\exit.png" />
     <Image Include="..\assests\main menu\ground.png" />
     <Image Include="..\assests\main menu\key button.png" />
     <Image Include="..\assests\main menu\knot.png" />
@@ -155,8 +163,13 @@
     <Image Include="..\assests\main menu\name1.png" />
     <Image Include="..\assests\main menu\name2.png" />
     <Image Include="..\assests\main menu\new button.png" />
+    <Image Include="..\assests\main menu\orc3_attack_full.png" />
+    <Image Include="..\assests\main menu\orc3_idle_full.png" />
+    <Image Include="..\assests\main menu\orc3_run_full.png" />
+    <Image Include="..\assests\main menu\orc3_walk_full.png" />
     <Image Include="..\assests\main menu\portal.png" />
     <Image Include="..\assests\main menu\return button.png" />
+    <Image Include="..\assests\main menu\settingsicon.png" />
     <Image Include="..\assests\main menu\sign.png" />
     <Image Include="..\assests\main menu\slider.png" />
     <Image Include="..\assests\main menu\stand.png" />
@@ -166,6 +179,20 @@
     <Image Include="..\assests\main menu\tree left.png" />
     <Image Include="..\assests\main menu\tree right.png" />
     <Image Include="..\assests\main menu\walk.png" />
+    <Image Include="..\main\add.png" />
+    <Image Include="..\main\b1.png" />
+    <Image Include="..\main\b2.png" />
+    <Image Include="..\main\b3.png" />
+    <Image Include="..\main\big.png" />
+    <Image Include="..\main\close (1).png" />
+    <Image Include="..\main\close.png" />
+    <Image Include="..\main\left.png" />
+    <Image Include="..\main\right.png" />
+    <Image Include="..\main\small.png" />
+    <Image Include="..\main\spellcast.png" />
+    <Image Include="..\main\spellcast1.png" />
+    <Image Include="..\main\textbox.png" />
+    <Image Include="..\main\true.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\assests\background sound.ogg" />

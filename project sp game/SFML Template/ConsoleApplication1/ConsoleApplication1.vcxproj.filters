@@ -24,9 +24,27 @@
     <ClCompile Include="windowresized.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="source2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FileName.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="monster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="newheader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FileName.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -101,6 +119,69 @@
       <Filter>Header Files</Filter>
     </Image>
     <Image Include="..\assests\main menu\exit notification.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\assests\main menu\exit.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\main\b1.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\main\b2.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\main\b3.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\main\close (1).png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\main\close.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\main\left.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\main\small.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\main\spellcast.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\main\spellcast1.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\main\true.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\main\add.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\main\textbox.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\main\right.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\main\big.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\assests\main menu\cursor.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\assests\main menu\settingsicon.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\assests\main menu\orc3_walk_full.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\assests\main menu\orc3_idle_full.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\assests\main menu\orc3_run_full.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\assests\main menu\orc3_attack_full.png">
       <Filter>Header Files</Filter>
     </Image>
   </ItemGroup>
